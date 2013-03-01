@@ -22,3 +22,5 @@ Functional Tests
    even better, you can just enable it for the very next request by calling
    ``$client->enableProfiler()`` when you need the profiler in a test (that
    speeds up functional tests quite a bit).
+
+ESTO ES UNA BUSQUEDA FUNCIONAL!!!

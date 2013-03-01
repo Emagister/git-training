@@ -23,4 +23,4 @@ Functional Tests
    ``$client->enableProfiler()`` when you need the profiler in a test (that
    speeds up functional tests quite a bit).
 
-ESTO ES UNA BUSQUEDA FUNCIONAL!!!
+ESTO ES UNA BUSQUEDA FUNCIONAL CORREGIDAAAAA!!!
